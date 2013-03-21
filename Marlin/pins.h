@@ -1038,7 +1038,7 @@
 #define SDSS                8
 #define LED_PIN            -1
 #define PS_ON_PIN          -1
-#define KILL_PIN           -1
+#define KILL_PIN           37    // E-STOP pin
 #define ALARM_PIN          -1
 
 #ifndef SDSUPPORT
